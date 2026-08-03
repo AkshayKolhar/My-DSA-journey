@@ -1,9 +1,18 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        h={}
+        el=-1
+        c=0
         for i in nums:
-            if i in h:
-                h[i]+=1
+            if c==0:
+                c=1
+                el=i
+            elif i==el:
+                c+=1
             else:
-                h[i]=1
-        return max(h,key=h.get)
+                c-=1
+        n=0
+        for i in nums:
+            if i==el:
+                n+=1
+        if n>len(nums)//2:
+            return el
