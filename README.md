@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0796-rotate-string) |
 ## Array
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0344-reverse-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
