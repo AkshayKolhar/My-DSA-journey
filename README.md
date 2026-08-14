@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0031-next-permutation) |
+| [0202-happy-number](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String Matching
@@ -64,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
