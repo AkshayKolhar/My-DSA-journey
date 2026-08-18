@@ -1,22 +1,19 @@
 class Solution:
     def largestInteger(self, nums: List[int], k: int) -> int:
-        counts={}
-        n=len(nums)
-        for i in nums:
-            l=0
-            r=k-1
-            count=0
-            while l<=n-k :
-                if i in nums[l:r+1]:
-                    count+=1
-                l+=1
-                r+=1
+        n = len(nums)
+        freq = Counter(nums)
 
-            counts[i]=count
-        ans=-1
-        for i in counts.keys():
-            if counts[i]==1:
-                ans=max(ans,i)
+        if k == 1:
+            candidates = [x for x in freq if freq[x] == 1]
+            return max(candidates) if candidates else -1
 
+        if k == n:
+            return max(nums)
 
-        return ans
+        candidates = []
+        if freq[nums[0]] == 1:
+            candidates.append(nums[0])
+        if freq[nums[-1]] == 1:
+            candidates.append(nums[-1])
+
+        return max(candidates) if candidates else -1
