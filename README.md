@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0169-majority-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0202-happy-number) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
