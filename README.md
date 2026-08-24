@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0560-subarray-sum-equals-k) |
+| [1872-stone-game-viii](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/1872-stone-game-viii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1872-stone-game-viii](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/1872-stone-game-viii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0202-happy-number) |
+| [1872-stone-game-viii](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0560-subarray-sum-equals-k) |
+| [1872-stone-game-viii](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/1872-stone-game-viii) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,4 +129,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/1872-stone-game-viii) |
+## Game Theory
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
