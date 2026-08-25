@@ -1,18 +1,33 @@
 class Solution:
     def fourSum(self, nums: List[int], target: int) -> List[List[int]]:
+        nums.sort()
         result=[]
         n=len(nums)
         for i in range(n):
+            if i>0 and nums[i]==nums[i-1]:
+                continue
             for j in range(i+1,n):
-                seen=set()
-                for k in range(j+1,n):
-                    summ=nums[i]+nums[j]+nums[k]
-                    fourth=target-summ
-                    if fourth in seen:
-                        sum_4=sorted([nums[i],nums[j],nums[k],fourth])
+                if j>i+1 and nums[j]==nums[j-1]:
+                    continue
 
-                        if sum_4 not in result:
-                            result.append(sum_4)
-                    seen.add(nums[k])
+                k=j+1
+                l=n-1
+                while k<l:
+                    summ=nums[i]+nums[j]+nums[k]+nums[l]
+                    if summ==target:
+                        result.append([nums[i],nums[j],nums[k],nums[l]])
+                        k+=1
+                        l-=1
 
-        return result
+                        while k<l and nums[k]==nums[k-1]:
+                            k+=1
+                        while k<l and nums[l]==nums[l+1]:
+                            l-=1
+                       
+                    elif summ<target:
+                        k+=1
+                    else:
+                        l-=1
+                    
+        
+        return result 
