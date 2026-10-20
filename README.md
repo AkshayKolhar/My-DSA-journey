@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0560-subarray-sum-equals-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1872-stone-game-viii](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/1872-stone-game-viii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0229-majority-element-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AkshayKolhar/My-DSA-journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String Matching
 |  |
